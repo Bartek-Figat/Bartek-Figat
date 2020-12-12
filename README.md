@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Bartek-Figat/Bartek-Figat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 - 📫 How to reach me: ... [YouTube Channel](https://www.youtube.com/channel/UCKGqnTxU_gSKBZzYadrMZBg?view_as=subscriber)
