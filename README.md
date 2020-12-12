@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: [Youtube](https://youtu.be/RQgQ1NV9LKU);
 
-- ⚡ Fun fact **I love JavaScript, MongoDB, Dart and cats 😻**
+- ⚡ Fun fact **I love JavaScript, MongoDB 😃**
 
 
 
