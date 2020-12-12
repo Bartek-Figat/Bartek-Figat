@@ -7,7 +7,7 @@
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently working on Node.js, Mongodb, React.js; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Youtube](https://youtu.be/RQgQ1NV9LKU");
+- 📫 How to reach me: [Youtube](https://youtu.be/RQgQ1NV9LKU);
 
 
 
