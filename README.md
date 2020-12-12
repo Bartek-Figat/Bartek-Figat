@@ -22,5 +22,8 @@
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bartek-Figat&show_icons=true&theme=gotham" alt="Bartek-Figat"/>
+<br />
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 
