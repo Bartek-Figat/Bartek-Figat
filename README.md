@@ -2,7 +2,7 @@
 <a href="https://youtu.be/RQgQ1NV9LKU">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=main-repo.Bartek-Figat)
+![](https://visitor-badge.glitch.me/badge?page_id=Bartek-Figat.Bartek-Figat)
 
 <br />
 
