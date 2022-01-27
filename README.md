@@ -2,7 +2,6 @@
 
 <br />
 
-- 📫 How to reach me: [Youtube](https://www.youtube.com/channel/UCXRbpB2opMgzRTYX4IZSxAQ);
 
 
 
